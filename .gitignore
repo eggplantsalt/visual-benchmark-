@@ -15,4 +15,4 @@ logs/
 custom_pddl/
 libero.egg-info/
 .vscode/
-libero/libero/assets/
+# libero/libero/assets/
